@@ -260,13 +260,12 @@
         ]
     },
     "xiaofeng870":{
-        "url":"",
-        "isToPage":false,
+        "url":"https://www.90jili.com/index?affiliateCode=haha11",
+        "isToPage":true,
         "isAlert":false,
         "countryCodes":[
             "LA",
-            "PH",
-            "BR"
+            "PH"
         ],
         "adjustParams":[
             {
